@@ -3,8 +3,25 @@
 ## Overview
 This Android application was developed as the final project for **CSCB07: Software Design** (Fall 2023) at the University of Toronto Scarborough.  
 It implements a **student/admin portal** with features such as announcements, event management, RSVP, complaints, and feedback.  
-
 The app uses the **Model–View–Presenter (MVP)** architecture and integrates with **Firebase Authentication** and **Firebase Realtime Database**.
+
+## Demo
+
+ [Watch Demo Video](https://youtube.com/shorts/h2eI4FhIVes?feature=share)  
+ Note: The Firebase backend used in this project (Fall 2023) is no longer active.  
+UI features are still demonstrable through screenshots and the recorded demo.
+
+
+
+### Screenshots
+**Prototype Navigation**
+![UI Prototype](2023%20CSCB07%20project.png)
+
+**Login Screen**
+![Login Screen](b07%20login.png)
+
+**Register Screen**
+![Register Screen](B07%20register.png)
 
 
 Note: The Firebase backend used in this demo was set up in Fall 2023 for CSCB07 coursework. 
