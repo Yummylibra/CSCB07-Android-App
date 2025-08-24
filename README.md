@@ -8,32 +8,26 @@ The app uses the **Model–View–Presenter (MVP)** architecture and integrates 
 ## Demo
 
  [Watch Demo Video](https://youtube.com/shorts/h2eI4FhIVes?feature=share)  
- Note: The Firebase backend used in this project (Fall 2023) is no longer active.  
+ Note: The Firebase backend used in this project (Fall 2023) is no longer active, so live login and database operations may not work 
+if you try to run the code locally.
 UI features are still demonstrable through screenshots and the recorded demo.
 
 
 
-### Screenshots
 **Prototype Navigation**
+
+
 ![UI Prototype](2023%20CSCB07%20project.png)
 
 **Login Screen**
+
+
 ![Login Screen](b07%20login.png)
 
 **Register Screen**
+
+
 ![Register Screen](B07%20register.png)
-
-
-Note: The Firebase backend used in this demo was set up in Fall 2023 for CSCB07 coursework. 
-The current Firebase project is no longer active, so live login and database operations may not work 
-if you try to run the code locally.
-
-
-
-
-The prorotype are listed as follows:
-![UI Prototype](2023%20CSCB07%20project.png)
-
 
 
 ---
