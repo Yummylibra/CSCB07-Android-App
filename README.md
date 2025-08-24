@@ -5,6 +5,15 @@ This Android application was developed as the final project for **CSCB07: Softwa
 It implements a **student/admin portal** with features such as announcements, event management, RSVP, complaints, and feedback.  
 
 The app uses the **Model–View–Presenter (MVP)** architecture and integrates with **Firebase Authentication** and **Firebase Realtime Database**.
+
+
+Note: The Firebase backend used in this demo was set up in Fall 2023 for CSCB07 coursework. 
+The current Firebase project is no longer active, so live login and database operations may not work 
+if you try to run the code locally.
+
+
+
+
 The prorotype are listed as follows:
 ![UI Prototype](2023%20CSCB07%20project.png)
 
