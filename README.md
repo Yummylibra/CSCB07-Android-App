@@ -8,7 +8,8 @@ The app uses the **Model–View–Presenter (MVP)** architecture and integrates 
 ## Demo
 
  [Watch Demo Video]( https://www.youtube.com/watch?v=K81ct-dIwNg)  
-[Demo from teammates] (https://youtube.com/shorts/h2eI4FhIVes?feature=share)
+ [Watch Demo Video]( https://youtube.com/shorts/h2eI4FhIVes?feature=share)  
+
  Note: The Firebase backend used in this project (Fall 2023) is no longer active, so live login and database operations may not work 
 if you try to run the code locally.
 UI features are still demonstrable through screenshots and the recorded demo.
